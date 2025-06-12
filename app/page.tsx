@@ -1,0 +1,1 @@
+export default function Home() { return <main><h1>Template Hotel Booking</h1></main>; }
